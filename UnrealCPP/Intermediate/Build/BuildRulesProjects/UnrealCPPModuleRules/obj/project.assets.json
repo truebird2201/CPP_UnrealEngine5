@@ -8047,11 +8047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lsy01\\Documents\\Unreal Projects\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\lsy01\\Desktop\\CPP_UnrealEngine5\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj",
       "projectName": "UnrealCPPModuleRules",
-      "projectPath": "C:\\Users\\lsy01\\Documents\\Unreal Projects\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj",
+      "projectPath": "C:\\Users\\lsy01\\Desktop\\CPP_UnrealEngine5\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj",
       "packagesPath": "C:\\Users\\lsy01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lsy01\\Documents\\Unreal Projects\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\obj\\",
+      "outputPath": "C:\\Users\\lsy01\\Desktop\\CPP_UnrealEngine5\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lsy01\\AppData\\Roaming\\NuGet\\NuGet.Config",

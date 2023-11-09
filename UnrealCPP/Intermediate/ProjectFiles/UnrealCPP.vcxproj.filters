@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UnrealCPPEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +30,36 @@
     <Filter Include="Source\UnrealCPP">
       <UniqueIdentifier>{145BA0C0-A73F-3B3B-AB18-3E277D7636DA}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UnrealCPP\MyActor.cpp">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCPP\MyActor.h">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealCPP\MyAnimInstance.cpp">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCPP\MyAnimInstance.h">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealCPP\MyCharacter.cpp">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCPP\MyCharacter.h">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealCPP\MyGameModeBase.cpp">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCPP\MyGameModeBase.h">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealCPP\MyPawn.cpp">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealCPP\MyPawn.h">
+      <Filter>Source\UnrealCPP</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UnrealCPP\UnrealCPP.Build.cs">
       <Filter>Source\UnrealCPP</Filter>
     </None>

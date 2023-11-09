@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lsy01\\Documents\\Unreal Projects\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj": {}
+    "C:\\Users\\lsy01\\Desktop\\CPP_UnrealEngine5\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -953,14 +953,14 @@
         }
       }
     },
-    "C:\\Users\\lsy01\\Documents\\Unreal Projects\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj": {
+    "C:\\Users\\lsy01\\Desktop\\CPP_UnrealEngine5\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsy01\\Documents\\Unreal Projects\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\lsy01\\Desktop\\CPP_UnrealEngine5\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj",
         "projectName": "UnrealCPPModuleRules",
-        "projectPath": "C:\\Users\\lsy01\\Documents\\Unreal Projects\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj",
+        "projectPath": "C:\\Users\\lsy01\\Desktop\\CPP_UnrealEngine5\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\UnrealCPPModuleRules.csproj",
         "packagesPath": "C:\\Users\\lsy01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsy01\\Documents\\Unreal Projects\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\lsy01\\Desktop\\CPP_UnrealEngine5\\UnrealCPP\\Intermediate\\Build\\BuildRulesProjects\\UnrealCPPModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lsy01\\AppData\\Roaming\\NuGet\\NuGet.Config",
