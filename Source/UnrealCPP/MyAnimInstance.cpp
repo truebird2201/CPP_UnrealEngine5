@@ -4,6 +4,7 @@
 #include "MyAnimInstance.h"
 #include "GameFramework/Character.h"
 #include "GameFramework/PawnMovementComponent.h"
+#include "MyCharacter.h"
 
 UMyAnimInstance::UMyAnimInstance()
 {
@@ -21,9 +22,11 @@ void UMyAnimInstance::NativeUpdateAnimation(float DeltaSeconds)
 	if (IsValid(pawn))
 	{
 		Speed = pawn->GetVelocity().Size();
-		auto Chara = Cast<ACharacter>(pawn);
+		auto Chara = Cast<AMyCharacter>(pawn);
 		if (Chara) {
 			isJumping = Chara->GetMovementComponent()->IsFalling();
+			Vertical = Chara->UpDownValue;
+			Horizontal = Chara->LeftRightValue;
 		}
 	}
 }
