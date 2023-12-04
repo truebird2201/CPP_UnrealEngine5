@@ -78,8 +78,10 @@ void AMyCharacter::Yaw(float value)
 
 void AMyCharacter::Attack()
 {
-	if (IsAttacking) return;
+	if (IsAttacking) return; 
 	AnimInstance->PlayAttackMontage();
+	AnimInstance->JumpToSection(AttackIndex);
+	AttackIndex = (AttackIndex + 1) % 3;
 	IsAttacking = true;
 }
 

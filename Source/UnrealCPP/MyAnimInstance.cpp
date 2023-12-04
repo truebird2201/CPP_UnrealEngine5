@@ -32,3 +32,19 @@ void UMyAnimInstance::PlayAttackMontage()
 {
 	Montage_Play(AttackMontage, 1.f);
 }
+
+void UMyAnimInstance::JumpToSection(int32 SectionIndex)
+{
+	FName Name = GetAttckMontageName(SectionIndex);
+	Montage_JumpToSection(Name, AttackMontage);
+}
+
+FName UMyAnimInstance::GetAttckMontageName(int32 SectionIndex)
+{
+	return FName(*FString::Printf(TEXT("Attack%d"), SectionIndex));
+}
+
+void UMyAnimInstance::AnimNotify_AttackHit()
+{
+	UE_LOG(LogTemp, Log, TEXT("Attack"));
+}
